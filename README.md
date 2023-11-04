@@ -4,7 +4,7 @@ The goal of that project was the implementation of a multi-layer perceptron clas
 
 ## File Format
 
-The dataset includes complains from customers from 2011 untill today and it it is a comma-delimited .csv file with the following format:
+The dataset includes complains from customers from 2011 untill today and it is a comma-delimited CSV file with the following format:
 
 ```
 0 <- date %Y-%m-%d
